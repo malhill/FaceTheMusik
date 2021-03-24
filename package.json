@@ -1,0 +1,26 @@
+{
+  "name": "FaceTheMusik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malhill/FaceTheMusik.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malhill/FaceTheMusik/issues"
+  },
+  "homepage": "https://github.com/malhill/FaceTheMusik#readme",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.6.2"
+  }
+}
