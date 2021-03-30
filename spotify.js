@@ -23,6 +23,7 @@
 // ---------------------------------------------------------------------------------------------------------------------------------------------------
 // ---------------------------------------------------------------------------------------------------------------------------------------------------
 // ---------------------------------------------------------------------------------------------------------------------------------------------------
+// http://jsfiddle.net/UT7bQ/10/
 // https://github.com/tombaranowicz/SpotifyPlaylistExport/blob/master/index.js
 // https://www.npmjs.com/package/spotify-web-api-node
 // modified for project: curl -H "Authorization: Basic ZjM...zE=" -d grant_type=authorization_code -d code=MQCbtKe...44KN -d redirect_uri=https%3A%2F%2Fwww.foo.com%2Fauth https://accounts.spotify.com/api/token
